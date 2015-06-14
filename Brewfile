@@ -5,11 +5,16 @@
 tap caskroom/cask
 brew brew-cask
 cask alfred
+cask atom
+cask dash
+cask github
 cask gitter
 cask hyperswitch
 cask java
 cask sequel-pro
+cask sourcetree
 cask the-unarchiver
+cask virtualbox
 cask xquartz
 
 ## caskroom/versions
