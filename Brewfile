@@ -12,6 +12,7 @@ cask gitter
 cask hyperswitch
 cask java
 cask sequel-pro
+cask shiftit
 cask sourcetree
 cask the-unarchiver
 cask virtualbox
